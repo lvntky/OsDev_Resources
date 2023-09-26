@@ -8,3 +8,4 @@ OsDev notes and resources for not forgetting/lost and re-study them.
 * [Broken Thorn](http://www.brokenthorn.com/Resources/OSDev17.html) -> pretty good low level explanations
 ## Example Projects
 * [tyndur os](https://git.tyndur.org/lowlevel/tyndur/) -> pretty good idt implementation
+* [szshou42/osdev](https://github.com/szhou42/osdev) -> greate roadmap
