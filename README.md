@@ -11,4 +11,4 @@ OsDev notes and resources for not forgetting/lost and re-study them.
 * [szshou42/osdev](https://github.com/szhou42/osdev) -> greate roadmap
 
 ## Books / E-Books
-*[The little book about OS development](https://littleosbook.github.io/) -> non theoric can be use for GRUB bootloader based OS
+* [The little book about OS development](https://littleosbook.github.io/) -> non theoric can be use for GRUB bootloader based OS
