@@ -9,3 +9,6 @@ OsDev notes and resources for not forgetting/lost and re-study them.
 ## Example Projects
 * [tyndur os](https://git.tyndur.org/lowlevel/tyndur/) -> pretty good idt implementation
 * [szshou42/osdev](https://github.com/szhou42/osdev) -> greate roadmap
+
+## Books / E-Books
+*[The little book about OS development](https://littleosbook.github.io/) -> non theoric can be use for GRUB bootloader based OS
