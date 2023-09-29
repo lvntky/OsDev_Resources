@@ -12,3 +12,6 @@ OsDev notes and resources for not forgetting/lost and re-study them.
 
 ## Books / E-Books
 * [The little book about OS development](https://littleosbook.github.io/) -> non theoric can be use for GRUB bootloader based OS
+
+## Manuels
+* [Intel 8259A Manuel](https://pdos.csail.mit.edu/6.828/2008/readings/hardware/8259A.pdf) -> PIC
