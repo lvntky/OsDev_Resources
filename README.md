@@ -2,6 +2,7 @@
 OsDev notes and resources for not forgetting/lost and re-study them.
 
 ## Youtube
+* [CS 134 OS—5.7 Paging on x86](https://www.youtube.com/watch?v=dn55T2q63RU&ab_channel=NeilRhodes)
 
 ## Websites
 * [Bran's Kernel Development tutorial](http://www.osdever.net/bkerndev/Docs/idt.htm) -> everything good about this tutorial but i love idt part the most'
