@@ -18,3 +18,6 @@ OsDev notes and resources for not forgetting/lost and re-study them.
 
 ## Manuels
 * [Intel 8259A Manuel](https://pdos.csail.mit.edu/6.828/2008/readings/hardware/8259A.pdf) -> PIC
+
+## Notes/Other/Misc
+* [Dream OS - OSDEV Notes](https://github.com/dreamos82/Osdev-Notes)
