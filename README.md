@@ -15,6 +15,7 @@ OsDev notes and resources for not forgetting/lost and re-study them.
 * [szshou42/osdev](https://github.com/szhou42/osdev) -> greate roadmap
 * [duneOS](https://github.com/naegelejd/duneOS/tree/master) -> I liked the higher-half kernel implementation
 * [duckOS](https://github.com/byteduck/duckOS) -> i love how it looks :)
+* [lja83's OS](https://github.com/lja83/OSDEV/) -> checked for multiboot info
 ## Books / E-Books
 * [The little book about OS development](https://littleosbook.github.io/) -> non theoric can be use for GRUB bootloader based OS
 
