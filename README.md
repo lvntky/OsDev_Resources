@@ -27,3 +27,6 @@ OsDev notes and resources for not forgetting/lost and re-study them.
 * [Dream OS - OSDEV Notes](https://github.com/dreamos82/Osdev-Notes)
 * [Thread: After 6 years of #osdev experience, here are my recommendations for trying out making your own Operating System from scratch](https://threadreaderapp.com/thread/901907267934724101.html)
 * [Emacs Related Blog](https://protesilaos.com/codelog/)
+
+## Third Party
+* [mlibc - portable c library](https://github.com/managarm/mlibc)
