@@ -37,4 +37,4 @@ OsDev notes and resources for not forgetting/lost and re-study them.
 * [mlibc - portable c library](https://github.com/managarm/mlibc)
 
 ## Utils
-*[gohu font](https://font.gohu.org/) -> nice font for using on operating system
+* [gohu font](https://font.gohu.org/) -> nice font for using on operating system
