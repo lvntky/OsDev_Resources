@@ -17,6 +17,11 @@ OsDev notes and resources for not forgetting/lost and re-study them.
 * [duckOS](https://github.com/byteduck/duckOS) -> i love how it looks :)
 * [lja83's OS](https://github.com/lja83/OSDEV/) -> checked for multiboot info
 * [SnowflakeOS](https://github.com/29jm/SnowflakeOS) -> well organized
+* Limine Using Projects
+  * [HanOs](https://github.com/jjwang/HanOS) -> pretty nice loading screen(reminds ToaurOS)
+  * [NanoShellOS](https://github.com/iProgramMC/NanoShellOS) -> banger
+  * [MisraOS](https://github.com/brightprogrammer/MisraOS)
+      
 ## Books / E-Books
 * [The little book about OS development](https://littleosbook.github.io/) -> non theoric can be use for GRUB bootloader based OS
 
@@ -30,3 +35,6 @@ OsDev notes and resources for not forgetting/lost and re-study them.
 
 ## Third Party
 * [mlibc - portable c library](https://github.com/managarm/mlibc)
+
+## Utils
+*[gohu font](https://font.gohu.org/) -> nice font for using on operating system
