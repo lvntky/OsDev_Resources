@@ -21,6 +21,7 @@ OsDev notes and resources for not forgetting/lost and re-study them.
   * [HanOs](https://github.com/jjwang/HanOS) -> pretty nice loading screen(reminds ToaurOS)
   * [NanoShellOS](https://github.com/iProgramMC/NanoShellOS) -> banger
   * [MisraOS](https://github.com/brightprogrammer/MisraOS)
+  * [ringOS](https://github.com/ringwormGO-organization/ringOS/tree/main)
       
 ## Books / E-Books
 * [The little book about OS development](https://littleosbook.github.io/) -> non theoric can be use for GRUB bootloader based OS
