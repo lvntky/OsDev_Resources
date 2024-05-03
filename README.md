@@ -17,6 +17,7 @@ OsDev notes and resources for not forgetting/lost and re-study them.
 * [duckOS](https://github.com/byteduck/duckOS) -> i love how it looks :)
 * [lja83's OS](https://github.com/lja83/OSDEV/) -> checked for multiboot info
 * [SnowflakeOS](https://github.com/29jm/SnowflakeOS) -> well organized
+* [Essence](https://gitlab.com/nakst/essence) -> good boot up process
 * Limine Using Projects
   * [HanOs](https://github.com/jjwang/HanOS) -> pretty nice loading screen(reminds ToaurOS)
   * [NanoShellOS](https://github.com/iProgramMC/NanoShellOS) -> banger
