@@ -23,6 +23,7 @@ OsDev notes and resources for not forgetting/lost and re-study them.
   * [NanoShellOS](https://github.com/iProgramMC/NanoShellOS) -> banger
   * [MisraOS](https://github.com/brightprogrammer/MisraOS)
   * [ringOS](https://github.com/ringwormGO-organization/ringOS/tree/main)
+  * [cavOS](https://github.com/malwarepad/cavOS/tree/master)
       
 ## Books / E-Books
 * [The little book about OS development](https://littleosbook.github.io/) -> non theoric can be use for GRUB bootloader based OS
